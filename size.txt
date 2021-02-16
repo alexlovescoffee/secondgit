@@ -1,0 +1,2 @@
+padding: 2px 8px
+margin 0
